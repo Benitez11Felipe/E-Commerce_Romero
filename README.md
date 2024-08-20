@@ -33,6 +33,7 @@ The project has been developed using React to create a dynamic and interactive u
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Benitez11Felipe/E-Commerce_Romero.git
+   ```
 2. Instala las dependencias: npm install
 3. Inicia la aplicación: npm start
 
@@ -41,6 +42,7 @@ The project has been developed using React to create a dynamic and interactive u
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Benitez11Felipe/E-Commerce_Romero.git
+   ```
 2. Install the dependencies: npm install
 3. Start the application: npm start
 
@@ -59,6 +61,10 @@ The project has been developed using React to create a dynamic and interactive u
 ## Conclusión
 
 Este proyecto ha sido concebido con el propósito de brindar una experiencia de compra en línea que sea tanto eficiente como placentera, apoyándose en tecnologías de vanguardia y siguiendo las mejores prácticas del desarrollo web. A través de un enfoque meticuloso en la usabilidad y la implementación de soluciones modernas, hemos logrado crear una plataforma que no solo satisface las expectativas de los usuarios, sino que también establece un nuevo estándar en la calidad de las experiencias de comercio electrónico.
+
+## Conclusion
+
+This project has been conceived with the purpose of providing an online shopping experience that is both efficient and pleasant, relying on cutting-edge technologies and following the best practices of web development. Through a meticulous focus on usability and the implementation of modern solutions, we have managed to create a platform that not only meets user expectations but also sets a new standard in the quality of e-commerce experiences.
 
 ## Conclusion
 
